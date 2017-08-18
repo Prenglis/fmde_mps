@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/Category_Theory_DSL/Category_Theory_DSL.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Category_Theory_DSL/sandbox/Category_Theory_DSL.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/Category_Theory_DSL.runtime/Category_Theory_DSL.runtime.msd" folder="" />
+    </projectModules>
+  </component>
+</project>

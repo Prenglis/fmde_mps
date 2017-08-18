@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/FMDMWE/FMDMWE.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/FMDMWE/runtime/FMDMWE.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/FMDMWE/sandbox/FMDMWE.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
